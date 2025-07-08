@@ -1,0 +1,6 @@
+Loading file: seq_eth/obsmat.txt
+Loading file: seq_hotel/obsmat.txt
+Loading file: zara01/obsmat.txt
+Loading file: zara02/obsmat.txt
+Train data shape: (35758, 5, 30, 2)
+Test data shape: (3974, 5, 30, 2)
